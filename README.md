@@ -2,7 +2,7 @@
 <h3 align="center">Full Stack Developer | Building with the MERN/Next.js stack + GenAI</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=B.Tech+CSE+%40+AKGEC+(AKTU)+%7C+Batch+of+2028;Full+Stack+%2B+Generative+AI+Developer;Open+Source+Contributor+%40+GSSoC+2026;150%2B+DSA+Problems+Solved+on+LeetCode" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=B.Tech+CS+%40+AKGEC+(AKTU)+%7C+Batch+of+2028;Full+Stack+%2B+Generative+AI+Developer;Open+Source+Contributor+%40+GSSoC+2026;150%2B+DSA+Problems+Solved+on+LeetCode" alt="Typing SVG" />
 </p>
 
 <p align="center">
