@@ -262,15 +262,12 @@ Contributing to open-source projects through **GirlScript Summer of Code 2026**.
 
 <p align="center">
   <img
-    src="https://streak-stats.demolab.com/?user=vanshika3124&hide_border=true"
+    src="https://streak-stats.demolab.com/?user=vanshika3124&theme=default&hide_border=true"
     alt="Vanshika's GitHub Streak"
   />
 </p>
 
 ---
-
----
-
 ## 🐍 Contribution Graph
 
 <p align="center">
