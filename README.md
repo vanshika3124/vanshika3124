@@ -214,7 +214,7 @@ Contributing to open-source projects through **GirlScript Summer of Code 2026**.
 
 ---
 
-## 🧠 Problem Solving
+##  Problem Solving
 
 <p align="center">
   <img
