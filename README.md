@@ -95,7 +95,7 @@
   <tr>
     <td width="50%" valign="top">
 
-### 🧾 Inventra
+### Inventra
 
 Full-stack SaaS platform for **billing and inventory management**, designed for managing products, sales, invoices and business operations.
 
